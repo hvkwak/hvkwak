@@ -7,7 +7,6 @@ I'm a software developer who changed my career path several times in my life to 
 I'm personally interested in neural rendering of scenes, computer graphics and 3D computer vision. Before I'm able to continue learning more about them, I'm currently(alongside my full-time job as a C++/Qt Developer) focusing on the basics and prerequisites including Computer Organization and Design, Computer Architecture, Multicore and GPU Programming. 
 <!--3D reconstruction of sporting scenes belongs to one of my lifetime goals which may enable experiencing the sporting events without having to be there physically. -->
 
-<p>A passionate software developer from S.Korea.</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
