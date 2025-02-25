@@ -4,7 +4,7 @@
 I'm a software developer who changed my career path several times in my life to step outside of the comfort zone. (Kinda "Quereinsteiger" in German.) While these transitions have presented challenges, they have also strengthened my adaptability and resilience. I'm committed to continuous growth and taking accountability for my actions and decisions. I always strive to grasp low-level details while keep focusing on the goals.
 
 ## Personal Interests
-I'm personally interested in neural rendering of scenes, computer graphics and 3D computer vision. Before I'm able to continue learning more about them, I'm currently(alongside my full-time job as a C++/Qt Developer) focusing on the basics and prerequisites including Computer Organization and Design, Computer Architecture, Multicore and GPU Programming. 
+I'm personally interested in neural rendering of scenes, computer graphics and 3D computer vision. Before I'm able to continue learning more about them, I'm currently focusing on the basics and prerequisites including Computer Organization and Design, Computer Architecture, Multicore and GPU Programming alongside my full-time job as a C++/Qt Developer. 
 <!--3D reconstruction of sporting scenes belongs to one of my lifetime goals which may enable experiencing the sporting events without having to be there physically. -->
 
 <h2>🚀 Languages and Tools I Use</h2>
