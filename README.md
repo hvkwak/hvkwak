@@ -1,10 +1,10 @@
 <h1>Hyovin Kwak</h1>
 
 ## Introduction
-I'm a software developer who changed my career path several times in my life to step outside of the comfort zone. (Kinda "Quereinsteiger" in German.) While these transitions have presented challenges, they have also strengthened my adaptability and resilience. I'm committed to continuous growth and taking accountability for my actions and decisions. I always strive to grasp low-level details while keep focusing on the goals.
+Software developer with career focus on computer graphics and computer vision. A multiple-time career changer driven by the pursuit of growth and resilience beyond the comfort zone. First hands-on industry experience in software development at an optical machine manufacturer (Schneider GmbH & Co. KG).
 
 ## Personal Interests
-I'm personally interested in rendering of scenes, computer graphics and 3D computer vision. Before I'm able to continue learning more about them, I'm currently focusing on the basics and prerequisites including Computer Organization and Design, Computer Architecture, GPU Programming alongside my full-time job as a C++/Qt Developer. 
+I'm personally interested in rendering of scenes, computer graphics and 3D computer vision. Before I'm able to continue learning more about them, I'm currently focusing on the basics and prerequisites alongside my job as a C++/Qt Developer.
 
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
