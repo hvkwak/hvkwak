@@ -1,5 +1,6 @@
 <h1>Hyovin Kwak</h1>
 
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white) 
@@ -20,4 +21,4 @@
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) 
 
 ## Introduction
-Software developer interested in Computer Vision, Computer Graphics, 3D Reconstruction, and GPU Programming. I have experience with C++, Python, and Qt, and am currently building hands-on skills in CUDA through focused self-study and applied exercises. 
+Software developer interested in Computer Vision, Computer Graphics, 3D Reconstruction, and GPU Programming. I have experience with C/C++, Python, and Qt, and am currently building hands-on skills in CUDA and 3D computer graphics through focused self-study and applied exercises. 
