@@ -21,4 +21,4 @@
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) 
 
 ## Introduction
-Software developer interested in Computer Vision, Computer Graphics, 3D Reconstruction, and GPU Programming. I have experience with C/C++, Python, and Qt, and am currently building hands-on skills in CUDA and 3D Computer Graphics through focused self-study and applied exercises. 
+Software developer interested in Neural Rendering and Computer Graphics | C/C++, Python, and CUDA
