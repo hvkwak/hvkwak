@@ -21,4 +21,4 @@
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) 
 
 ## Introduction
-Software developer interested in Neural Rendering and Computer Graphics | C/C++, Python, and CUDA
+Software developer with focus on Computer Graphics and Neural Rendering
