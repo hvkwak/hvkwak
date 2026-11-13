@@ -22,4 +22,4 @@
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) 
 
 ## Introduction
-Software developer with focus on Computer Graphics and Neural Rendering
+Software developer with career focus on computer graphics and computer vision
